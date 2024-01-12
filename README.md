@@ -57,6 +57,6 @@ I'm now a third-year student at Quy Nhon University, I'm learning IT which I am 
 ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
 /-------------------------------------------------------------------------------------------------------------------------/
+
 [![My Skills](https://skillicons.dev/icons?i=github,aws,azure,python,cpp,docker,gmail&perline=4)](https://skillicons.dev)
