@@ -58,6 +58,6 @@ I'm now a third-year student at Quy Nhon University, I'm learning IT which I am 
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-/-------------------------------------------------------------------------------------------------------------------------/
-
 [![My Skills](https://skillicons.dev/icons?i=github,aws,azure,python,cpp,docker,gmail&perline=4)](https://skillicons.dev)
+
+<a href="https://app.daily.dev/vngyn54"><img src="https://api.daily.dev/devcards/v2/u2HXUBjR41wXJ5HAFNicE.png?r=kcx" width="356" alt="Vngyn's Dev Card"/></a>
