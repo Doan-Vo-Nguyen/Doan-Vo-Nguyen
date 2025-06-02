@@ -47,7 +47,7 @@ Fluent in English and always open to learning new technologies and collaborating
 
 ### 🛠️ Skills Snapshot
 
-[![My Skills](https://skillicons.dev/icons?i=github,aws,azure,python,cpp,docker,mongodb&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,aws,azure,python,cpp,docker,mongodb,nodejs&perline=4)](https://skillicons.dev)
 
 ---
 
