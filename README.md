@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a third-year Information Technology student at Quy Nhon University.  
+I’m Nguyen, a NodeJS backend developer
 I'm passionate about software development and eager to grow as a full-stack developer.  
 Fluent in English and always open to learning new technologies and collaborating on interesting projects.
 
